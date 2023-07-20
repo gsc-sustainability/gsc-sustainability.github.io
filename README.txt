@@ -1,12 +1,3 @@
-# GSC_Sustainability
-GSC Sustainability Website to 
-1) raise greater awareness of us and what we do
-2) publicize the Sustainability Fund
-3) record past events for sharing and inspiration
-4) be flexible for us to control the content.
-
-Website Template Design from HTML5UP
-
 Stellar by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
