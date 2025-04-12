@@ -3784,3 +3784,9 @@ input, select, textarea {
 			}
 
 		}
+
+/* Custom styles */
+.past_events_logo {
+    width: 1in; /* Set the width to 1 inch */
+    height: auto; /* Maintain aspect ratio */
+}
