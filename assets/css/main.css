@@ -2858,6 +2858,11 @@ input, select, textarea {
 					}
 
 		}
+	
+		.features .past_events_logo {
+			width: 5in; /* Set the width to 1 inch */
+			height: auto; /* Maintain aspect ratio */
+		}
 
 /* Statistics */
 
@@ -3785,13 +3790,3 @@ input, select, textarea {
 
 		}
 
-/* Custom styles */
-.past_events_logo {
-    width: 0.1in; /* Set the width */
-    height: auto; /* Maintain aspect ratio */
-}
-
-.logo {
-    width: 0.1in; /* Set the width */
-    height: auto; /* Maintain aspect ratio */
-}
