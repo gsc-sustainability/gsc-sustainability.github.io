@@ -1,9 +1,26 @@
 # GSC_Sustainability
-GSC Sustainability Website to 
-1) raise greater awareness of us and what we do
-2) publicize the Sustainability Fund
-3) record past events for sharing and inspiration
-4) be flexible for us to control the content.
+
+The GSC Sustainability Website serves as a platform wholly controlled by GSC Sustain to:
+
+1) introduce us to interested folks
+2) store links to useful links and websites, including but not limited to our Instagram, mailing list, Slack channel, the Sustainability Fund, and Sustainability Student Coalition (SSC).
+3) document our activities (alongside Instagram)
+
+## Instructions for editing the website
+
+As you can see from the [website](https://gsc-sustainability.github.io), the entire website is contained on one page, and headers at the top of the page direct to different sections on the page. Therefore, you can copy-paste from existing code and use copilot for the rest :smile:
+
+- `assets` mostly contain website backend code. No need to use these files unless you know how to read and edit it
+- `image` contains image files
+- `index.html` contains the bulk of the editable code. As a first pass, you can copy and paste sections based on what you already see on the website!
+	- 
+
+
+## To-do
+
+- Change the background to wholly white 
+
+## Acknowledgements 
 
 Website Template Design from HTML5UP
 
