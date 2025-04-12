@@ -2859,8 +2859,8 @@ input, select, textarea {
 
 		}
 	
-		.features .past_events_logo {
-			width: 5in; /* Set the width to 1 inch */
+		.features .past_events_logo img {
+			width: 5in; /* Set the width */
 			height: auto; /* Maintain aspect ratio */
 		}
 

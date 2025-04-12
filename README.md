@@ -12,8 +12,7 @@ As you can see from the [website](https://gsc-sustainability.github.io), the ent
 
 - `assets` mostly contain website backend code. No need to use these files unless you know how to read and edit it
 - `image` contains image files
-- `index.html` contains the bulk of the editable code. As a first pass, you can copy and paste sections based on what you already see on the website!
-	- 
+- Contents are written in `index.html` and formatting is controlled in `main.css`
 
 
 ## To-do
