@@ -2867,7 +2867,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 			.features .past_events_logo img {
-				width: 0.8in; /* Adjust size for smaller screens */
+				width: 1.2in; /* Adjust size for smaller screens */
 			}
 		}
 
