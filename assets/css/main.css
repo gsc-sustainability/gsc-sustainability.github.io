@@ -3790,3 +3790,8 @@ input, select, textarea {
     width: 0.1in; /* Set the width */
     height: auto; /* Maintain aspect ratio */
 }
+
+.logo {
+    width: 0.1in; /* Set the width */
+    height: auto; /* Maintain aspect ratio */
+}
