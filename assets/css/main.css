@@ -2859,9 +2859,10 @@ input, select, textarea {
 
 		}
 	
-		.features .past_events_logo img {
-			width: 5in; 
+		#past .features .past_events_logo img {
+			width: 2in; 
 			height: auto; 
+			max-width: 75%;
 		}
 
 /* Statistics */
